@@ -1,20 +1,20 @@
 # Fdb version 4
-["biber Beamer_Project"] 1738675331.64538 "Beamer_Project.bcf" "Beamer_Project.bbl" "Beamer_Project" 1738675338.56452 0
-  "Beamer_Project.bcf" 1738675338 107150 ba7c2acb693b6e606a9bbb1b46a77b11 "pdflatex"
-  "bibliography.bib" 1738675298 583 6efe923c2b32e77b1670be361b4a4686 ""
+["biber Beamer_Project"] 1738675898.28755 "Beamer_Project.bcf" "Beamer_Project.bbl" "Beamer_Project" 1738675906.2233 0
+  "Beamer_Project.bcf" 1738675905 107150 ba7c2acb693b6e606a9bbb1b46a77b11 "pdflatex"
+  "bibliography.bib" 1738675892 578 83d7582d364f76ef2824a7a306b7bb0b ""
   (generated)
   "Beamer_Project.bbl"
   "Beamer_Project.blg"
   (rewritten before read)
-["pdflatex"] 1738675335.187 "c:/Users/ASUS/Desktop/Electromagnetic project 403123091/Beamer/Beamer_Project.tex" "Beamer_Project.pdf" "Beamer_Project" 1738675338.5656 0
+["pdflatex"] 1738675902.14122 "c:/Users/ASUS/Desktop/Electromagnetic project 403123091/Beamer/Beamer_Project.tex" "Beamer_Project.pdf" "Beamer_Project" 1738675906.22438 0
   "2.jpg" 1738669673 23939 73190dfc5bc00468cec115bab60ca1fe ""
-  "Beamer_Project.aux" 1738675338 5139 8e4e8d2257d191aa9644c1f3b976006d "pdflatex"
-  "Beamer_Project.bbl" 1738675335 3714 257b74e969fac3d15729fd434db4f7e1 "biber Beamer_Project"
-  "Beamer_Project.nav" 1738675338 2893 d828f4acafb871539083d52611072a2f "pdflatex"
-  "Beamer_Project.out" 1738675338 869 96a20f8e6807a0168b65bfba5ebe7846 "pdflatex"
-  "Beamer_Project.run.xml" 1738675338 2377 1f34245883dc1742f65970928a59f191 "pdflatex"
+  "Beamer_Project.aux" 1738675905 5139 a7f6558e62c1c7f2295b769c7c5ab163 "pdflatex"
+  "Beamer_Project.bbl" 1738675902 3704 1dbe291863e4c4157fa550a7be189be6 "biber Beamer_Project"
+  "Beamer_Project.nav" 1738675905 2893 d828f4acafb871539083d52611072a2f "pdflatex"
+  "Beamer_Project.out" 1738675905 869 96a20f8e6807a0168b65bfba5ebe7846 "pdflatex"
+  "Beamer_Project.run.xml" 1738675905 2377 1f34245883dc1742f65970928a59f191 "pdflatex"
   "Beamer_Project.tex" 1738675320 8108 76079398c11cd7286aa566e3d748faec ""
-  "Beamer_Project.toc" 1738675338 354 3a820996a48c1c6a02d9e3edfc485bcf "pdflatex"
+  "Beamer_Project.toc" 1738675905 354 3a820996a48c1c6a02d9e3edfc485bcf "pdflatex"
   "C:/Users/ASUS/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1738669064 81088 29d6fa367ac022d1b69251d68c0742e6 ""
   "C:/Users/ASUS/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1737649430 24224615 fc395eabe8dc060b4c1388ba50acca2c ""
   "C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
