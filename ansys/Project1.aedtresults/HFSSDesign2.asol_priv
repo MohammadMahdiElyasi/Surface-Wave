@@ -1,0 +1,153 @@
+$begin '$base_index$'
+  $begin 'properties'
+    all_levels=000000000000
+    time(year=000000002025, month=000000000002, day=000000000003, hour=000000000003, min=000000000058, sec=000000000016)
+    version=000000000000
+  $end 'properties'
+  $begin '$base_index$'
+    $index$(pos=000000000000, lin=000000000001, lvl=000000000000)
+  $end '$base_index$'
+$end '$base_index$'
+$begin 'SolutionBlock4'
+	ProductName=''
+	CircuitName='HFSSDesign2'
+	VersionID=1577
+	PostProcess=false
+	LossLess=true
+	NextUniqueID=2052
+	MoveBackwards=false
+	$begin 'VariationIDs'
+		Map(V='', ID=136)
+		Map(V='Phase_Delay=\'-100deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1899)
+		Map(V='Phase_Delay=\'-10deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1908)
+		Map(V='Phase_Delay=\'-110deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1898)
+		Map(V='Phase_Delay=\'-119.99999999999999deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1897)
+		Map(V='Phase_Delay=\'-130deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1896)
+		Map(V='Phase_Delay=\'-140deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1895)
+		Map(V='Phase_Delay=\'-150deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1894)
+		Map(V='Phase_Delay=\'-160deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1893)
+		Map(V='Phase_Delay=\'-170deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1892)
+		Map(V='Phase_Delay=\'-180deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1891)
+		Map(V='Phase_Delay=\'-20deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1907)
+		Map(V='Phase_Delay=\'-29.999999999999996deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1906)
+		Map(V='Phase_Delay=\'-40deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1905)
+		Map(V='Phase_Delay=\'-50deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1904)
+		Map(V='Phase_Delay=\'-59.999999999999993deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1903)
+		Map(V='Phase_Delay=\'-70deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1902)
+		Map(V='Phase_Delay=\'-80deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1901)
+		Map(V='Phase_Delay=\'-90deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1900)
+		Map(V='Phase_Delay=\'0deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1811)
+		Map(V='Phase_Delay=\'100deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1918)
+		Map(V='Phase_Delay=\'10deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'10mm\'', ID=1928)
+		Map(V='Phase_Delay=\'10deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'110mm\'', ID=1936)
+		Map(V='Phase_Delay=\'10deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'130mm\'', ID=1938)
+		Map(V='Phase_Delay=\'10deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'150mm\'', ID=1940)
+		Map(V='Phase_Delay=\'10deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'170mm\'', ID=1942)
+		Map(V='Phase_Delay=\'10deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'190mm\'', ID=1944)
+		Map(V='Phase_Delay=\'10deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'210mm\'', ID=1946)
+		Map(V='Phase_Delay=\'10deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'230mm\'', ID=1948)
+		Map(V='Phase_Delay=\'10deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'250mm\'', ID=1950)
+		Map(V='Phase_Delay=\'10deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'270mm\'', ID=1952)
+		Map(V='Phase_Delay=\'10deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'290mm\'', ID=1954)
+		Map(V='Phase_Delay=\'10deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1909)
+		Map(V='Phase_Delay=\'10deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'30mm\'', ID=1930)
+		Map(V='Phase_Delay=\'10deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'310mm\'', ID=1956)
+		Map(V='Phase_Delay=\'10deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'330mm\'', ID=1958)
+		Map(V='Phase_Delay=\'10deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'350mm\'', ID=1960)
+		Map(V='Phase_Delay=\'10deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'370mm\'', ID=1962)
+		Map(V='Phase_Delay=\'10deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'390mm\'', ID=1964)
+		Map(V='Phase_Delay=\'10deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'400mm\'', ID=1966)
+		Map(V='Phase_Delay=\'10deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'50mm\'', ID=1927)
+		Map(V='Phase_Delay=\'10deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'70mm\'', ID=1932)
+		Map(V='Phase_Delay=\'10deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'90mm\'', ID=1934)
+		Map(V='Phase_Delay=\'110deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1919)
+		Map(V='Phase_Delay=\'119.99999999999999deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1920)
+		Map(V='Phase_Delay=\'130deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1921)
+		Map(V='Phase_Delay=\'140deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1922)
+		Map(V='Phase_Delay=\'150deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1923)
+		Map(V='Phase_Delay=\'160deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1924)
+		Map(V='Phase_Delay=\'170deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1925)
+		Map(V='Phase_Delay=\'180deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1926)
+		Map(V='Phase_Delay=\'20deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1910)
+		Map(V='Phase_Delay=\'29.999999999999996deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1911)
+		Map(V='Phase_Delay=\'40deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1912)
+		Map(V='Phase_Delay=\'50deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1913)
+		Map(V='Phase_Delay=\'59.999999999999993deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1914)
+		Map(V='Phase_Delay=\'70deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1915)
+		Map(V='Phase_Delay=\'80deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1916)
+		Map(V='Phase_Delay=\'90deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1917)
+		Map(V='x_size=\'100mm\'', ID=236)
+		Map(V='x_size=\'100mm\' y_size=\'24.5mm\'', ID=237)
+		Map(V='x_size=\'100mm\' y_size=\'24.5mm\' Z_high_size=\'20mm\' z_size=\'200mm\'', ID=263)
+		Map(V='x_size=\'100mm\' y_size=\'24.5mm\' z_size=\'200mm\'', ID=243)
+		Map(V='x_size=\'100mm\' y_size=\'24.5mm\' z_size=\'300mm\'', ID=238)
+		Map(V='x_size=\'300mm\' y_size=\'24.5mm\' Z_high_size=\'20mm\' z_size=\'200mm\'', ID=677)
+		Map(V='x_size=\'300mm\' y_size=\'24.5mm\' Z_high_size=\'20mm\' z_size=\'20mm\'', ID=747)
+		Map(V='x_size=\'300mm\' y_size=\'24.5mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=815)
+		Map(V='x_size=\'300mm\' y_size=\'300mm\' Z_high_size=\'20mm\' z_size=\'200mm\'', ID=1810)
+		Map(V='x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'200mm\'', ID=1756)
+		Map(V='x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', ID=1206)
+		Map(V='x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'50mm\'', ID=1251)
+		Map(V='x_size=\'600mm\' y_size=\'24.5mm\' Z_high_size=\'20mm\' z_size=\'200mm\'', ID=678)
+		Map(V='x_size=\'600mm\' y_size=\'24.5mm\' Z_high_size=\'20mm\' z_size=\'20mm\'', ID=746)
+	$end 'VariationIDs'
+	$begin 'LinkedDataList'
+	$end 'LinkedDataList'
+	$begin 'InitialMeshes'
+		M(VID=1251, Ver=1577, Dir='DV1251_V1577.imesh/')
+		M(VID=1756, Ver=1577, Dir='DV1756_V1577.imesh/')
+		M(VID=1811, Ver=1577, Dir='DV1811_V1577.imesh/')
+		M(VID=1927, Ver=1577, Dir='DV1927_V1577.imesh/')
+	$end 'InitialMeshes'
+	MeshAssemVersionID=72
+	$begin 'NextAssemVersionID'
+		NextUniqueID=73
+		MoveBackwards=false
+	$end 'NextAssemVersionID'
+	$begin 'DefinitionMeshes'
+		$begin 'DefMeshes_Comp-1'
+			DefinitionID=-1
+			VersionID=71
+			VIDMap('', 78, 'x_size=\'100mm\' y_size=\'24.5mm\' Z_high_size=\'20mm\' z_size=\'200mm\'', 364, 'x_size=\'300mm\' y_size=\'24.5mm\' Z_high_size=\'20mm\' z_size=\'200mm\'', 558, 'x_size=\'300mm\' y_size=\'24.5mm\' Z_high_size=\'20mm\' z_size=\'20mm\'', 812, 'x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'10mm\'', 1929, 'x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'110mm\'', 1937, 'x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'130mm\'', 1939, 'x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'150mm\'', 1941, 'x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'170mm\'', 1943, 'x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'190mm\'', 1945, 'x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'200mm\'', 1806, 'x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'210mm\'', 1947, 'x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'230mm\'', 1949, 'x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'250mm\'', 1951, 'x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'270mm\'', 1953, 'x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'290mm\'', 1955, 'x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\'', 817, 'x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'30mm\'', 1931, 'x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'310mm\'', 1957, 'x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'330mm\'', 1959, 'x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'350mm\'', 1961, 'x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'370mm\'', 1963, 'x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'390mm\'', 1965, 'x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'400mm\'', 1967, 'x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'50mm\'', 1313, 'x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'70mm\'', 1933, 'x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'90mm\'', 1935, 'x_size=\'600mm\' y_size=\'24.5mm\' Z_high_size=\'20mm\' z_size=\'200mm\'', 743)
+			DM(VID=817, Ver=71, Dir='NDV817_V71.dmesh/')
+			DM(VID=1313, Ver=71, Dir='NDV1313_V71.dmesh/')
+			DM(VID=1806, Ver=71, Dir='NDV1806_V71.dmesh/')
+			DM(VID=1929, Ver=71, Dir='NDV1929_V71.dmesh/')
+			DM(VID=1931, Ver=71, Dir='NDV1931_V71.dmesh/')
+			DM(VID=1933, Ver=71, Dir='NDV1933_V71.dmesh/')
+			DM(VID=1935, Ver=71, Dir='NDV1935_V71.dmesh/')
+			DM(VID=1937, Ver=71, Dir='NDV1937_V71.dmesh/')
+			DM(VID=1939, Ver=71, Dir='NDV1939_V71.dmesh/')
+			DM(VID=1941, Ver=71, Dir='NDV1941_V71.dmesh/')
+			DM(VID=1943, Ver=71, Dir='NDV1943_V71.dmesh/')
+			DM(VID=1945, Ver=71, Dir='NDV1945_V71.dmesh/')
+			DM(VID=1947, Ver=71, Dir='NDV1947_V71.dmesh/')
+			DM(VID=1949, Ver=71, Dir='NDV1949_V71.dmesh/')
+			DM(VID=1951, Ver=71, Dir='NDV1951_V71.dmesh/')
+			DM(VID=1953, Ver=71, Dir='NDV1953_V71.dmesh/')
+			DM(VID=1955, Ver=71, Dir='NDV1955_V71.dmesh/')
+			DM(VID=1957, Ver=71, Dir='NDV1957_V71.dmesh/')
+			DM(VID=1959, Ver=71, Dir='NDV1959_V71.dmesh/')
+			DM(VID=1961, Ver=71, Dir='NDV1961_V71.dmesh/')
+			DM(VID=1963, Ver=71, Dir='NDV1963_V71.dmesh/')
+			DM(VID=1965, Ver=71, Dir='NDV1965_V71.dmesh/')
+			DM(VID=1967, Ver=71, Dir='NDV1967_V71.dmesh/')
+		$end 'DefMeshes_Comp-1'
+	$end 'DefinitionMeshes'
+	$begin 'MI'
+		$begin 'SubData'
+			ID=0
+			MI(VID=1251, Ver=1577, Dir='DV1251_MI0_V1577.sd/')
+			MI(VID=1756, Ver=1577, Dir='DV1756_MI0_V1577.sd/')
+			MI(VID=1811, Ver=1577, Dir='DV1811_MI0_V1577.sd/')
+			MI(VID=1927, Ver=1577, Dir='DV1927_MI0_V1577.sd/')
+		$end 'SubData'
+	$end 'MI'
+	VersionID2=0
+$end 'SolutionBlock4'
+$begin 'BlockMapName'
+	FileHeader='SolutionBlock4'
+	'SolutionKey(SimSetup=1572, Instance=\'SetupDefinition\', Solution=-1, VersionID=1842)'='SolutionBlock68'
+	'SolutionKey(SimSetup=1572, Instance=\'SolutionDefinition\', Solution=1573, VersionID=1842)'='SolutionBlock66'
+	'SolutionKey(SimSetup=1572, Instance=\'SolutionDefinition\', Solution=1574, VersionID=1842)'='SolutionBlock67'
+$end 'BlockMapName'

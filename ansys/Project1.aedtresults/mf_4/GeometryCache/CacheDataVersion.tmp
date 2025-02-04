@@ -1,0 +1,10 @@
+$begin 'CacheDataVersion'
+	DataVersion=17
+$end 'CacheDataVersion'
+$begin 'VariableValues'
+	x_size='300mm'
+	y_size='30mm'
+	z_size='50mm'
+	Z_high_size='20mm'
+	Phase_Delay='10deg'
+$end 'VariableValues'

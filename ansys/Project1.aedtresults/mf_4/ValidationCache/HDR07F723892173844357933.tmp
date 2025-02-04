@@ -1,0 +1,22 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='Phase_Delay=\'0deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'300mm\''
+		Status=true
+		FileName='VI450B14344173852864291.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='Phase_Delay=\'10deg\' x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'50mm\''
+		Status=true
+		FileName='VI4E1A143441738529352111.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'200mm\''
+		Status=true
+		FileName='VI3C4814344173852795578.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='x_size=\'300mm\' y_size=\'30mm\' Z_high_size=\'20mm\' z_size=\'50mm\''
+		Status=true
+		FileName='VI197B14344173852522713.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'

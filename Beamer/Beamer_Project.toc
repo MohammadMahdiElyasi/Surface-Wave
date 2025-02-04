@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Surface Waves}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Structure Used}{6}{0}{1}
+\beamer@sectionintoc {2}{Theory}{8}{0}{2}
+\beamer@sectionintoc {3}{Simulation and Results}{11}{0}{3}
+\beamer@sectionintoc {4}{Conclusion}{14}{0}{4}
+\beamer@sectionintoc {5}{References}{15}{0}{5}
